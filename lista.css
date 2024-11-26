@@ -1,0 +1,74 @@
+table {
+    border-collapse: collapse;
+    background: linear-gradient(to bottom, #ffffff 0%, #fcfcfc 100%);
+    width: 70%;
+    margin: auto;
+  }
+  td {
+      text-align: center;
+  }
+
+  /* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(205, 229, 250);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    margin: 20px auto;
+    width: 80%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+
+}
+th, td {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #8f8989;
+    margin: 5px auto;
+}
+td {
+    color: black;
+    font-weight: bold;
+}
+.legend td {
+    text-align: left;
+    padding: 5px 10px;
+}
+.centrar {
+    text-align: right;
+}
+
+  body {
+    background: linear-gradient(to right, #5c78ad, #30288d); /* Degradado de color */
+    height: 100vh; /* Asegura que el fondo cubra toda la altura de la ventana */
+    margin: 0; /* Elimina los márgenes por defecto */
+}
+
+td img {
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 2px solid rgb(0, 0, 0);
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 80%;
+}
